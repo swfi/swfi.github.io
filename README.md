@@ -3,14 +3,12 @@
 As a data enthusiast, Arianna enjoys learning new things, expanding her horizon and taking on new challenges. Here she will share the projects done by using open data sources. This site intends to keep track of her data journey. Any advice is greatly appreciated :) 
 
 ### Projects:
-```markdown
+
 - [Explore the Titanic Dataset](https://github.com/swfi/InvestigateDataset/blob/master/Titanic.ipynb)
 - [OpenStreetMap - Data Wrangling](https://github.com/swfi/OpenStreetMap/blob/master/Skaene_Data_MongoDB.md)
 - [Image Analysis](https://github.com/swfi/Image_Analysis/blob/master/Image%20analysis.ipynb)
 - [Customer Segmentation]()
 - ... (More are on the way)
-
-```
 
 
 
