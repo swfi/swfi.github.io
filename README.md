@@ -1,6 +1,6 @@
 ## Welcome to Arianna's Pages
 
-As a data enthusiast, Arianna enjoys learning new things, expanding her horizon and taking on new challenges. Here she will share the projects done by using open data sources. This site intends to keep track of her data journey. Any advice is greatly appreciated :) 
+As a data enthusiast, Arianna enjoys learning new things, expanding her horizon and taking on new challenges. Here she will share the projects done by using open data sources. This site is intended to keep track of her data journey. Any advice is greatly appreciated :) 
 
 ### Projects:
 
