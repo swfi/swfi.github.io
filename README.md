@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Arianna's Pages
 
-You can use the [editor on GitHub](https://github.com/swfi/swfi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As a data enthusiast, Arianna enjoys learning new things, expanding her horizon and taking on new challenges. Here she will share the projects done by using open data sources. This site intends to keep track of her data journey. Any advice is greatly appreciated :) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Projects:
 ```markdown
-Syntax highlighted code block
+- Explore the Titanic Dataset
+- OpenStreet Map
+- Image Analysis
+- Customer Segmentation
+- ...
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swfi/swfi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### Jekyll Themes
+This site is using the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swfi/swfi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
