@@ -8,7 +8,7 @@ As a data enthusiast, Arianna enjoys learning new things, expanding her horizon 
 - OpenStreet Map
 - Image Analysis
 - Customer Segmentation
-- ...
+- ... (More are on the way)
 
 ```
 
