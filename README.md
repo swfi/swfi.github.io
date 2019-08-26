@@ -12,5 +12,5 @@ As a data enthusiast, Arianna enjoys learning new things, expanding her horizon 
 
 
 
-##### Jekyll Themes
-This site is using the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swfi/swfi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+***This site is using the layout and styles from the Jekyll theme that is saved in the Jekyll `_config.yml` configuration file.***
