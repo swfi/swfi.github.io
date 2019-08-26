@@ -13,4 +13,4 @@ As a data enthusiast, Arianna enjoys learning new things, expanding her horizon 
 
 
 
-*This site is using the layout and styles from the Jekyll theme that is saved in the Jekyll `_config.yml` configuration file.*
+<sub><sup>This site is using the layout and styles from the Jekyll theme that is saved in the Jekyll `_config.yml` configuration file.<\sup><\sub> 
