@@ -8,6 +8,7 @@ As a data enthusiast, Arianna enjoys learning new things, expanding her horizon 
 - [OpenStreetMap - Data Wrangling](https://github.com/swfi/OpenStreetMap/blob/master/Skaene_Data_MongoDB.md)
 - [Image Analysis](https://github.com/swfi/Image_Analysis/blob/master/Image%20analysis.ipynb)
 - [Customer Segmentation](https://github.com/swfi/Customer_Segmentation/blob/master/Customer%20segmentation.ipynb)
+- [What Affects Weighted International Grade - D3.js visualization](http://bl.ocks.org/swfi/raw/b8252ee64cae5adcc36ac3cf1d615fd7/)
 - ... (More are on the way)
 
 
